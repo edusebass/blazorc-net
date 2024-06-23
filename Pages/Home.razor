@@ -1,7 +1,20 @@
 ﻿@page "/"
+@inject IConfiguration config
 
 <PageTitle>Home</PageTitle>
 
-<h1>Hello, world!</h1>
+<ModuleTitle Title="asd"></ModuleTitle>
 
-Welcome to your new app.
+<h1>Welcome to your new app.</h1>
+
+<h2>@HelloMessage</h2>
+
+@code
+{
+    public string HelloMessage { get; set; } // Changed to a property with getter and setter
+
+    protected override void OnInitialized()
+    {
+        HelloMessage = config["helloMessage"];
+    }
+}

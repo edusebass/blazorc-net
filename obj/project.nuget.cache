@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UakDy3DcWwaWLzm0q3jNKTrpj7lJBpwCprbldL8wdqn58m0nS0FYy5cukGVJsjUsXg/RfU8Jo4YjOY55ihVmmA==",
+  "dgSpecHash": "b401UwruJV/H61M67nUUSJ/xueUVnYJ2mhKkXCAsrTOBvaJFlp696SjnI9LH2pqjg/D0NZN35RCrS5UfNyDtYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eduar\\OneDrive\\Eduardo Almachi\\workspace\\.NET y C#\\blazornet\\blazornet.csproj",
+  "projectFilePath": "C:\\Users\\eduar\\OneDrive\\Eduardo Almachi\\workspace\\.NET y C# Angular\\blazornet\\blazornet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.6\\microsoft.aspnetcore.authorization.8.0.6.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.6\\microsoft.aspnetcore.components.8.0.6.nupkg.sha512",

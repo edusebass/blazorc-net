@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eduar\\OneDrive\\Eduardo Almachi\\workspace\\.NET y C#\\blazornet\\blazornet.csproj": {}
+    "C:\\Users\\eduar\\OneDrive\\Eduardo Almachi\\workspace\\.NET y C# Angular\\blazornet\\blazornet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eduar\\OneDrive\\Eduardo Almachi\\workspace\\.NET y C#\\blazornet\\blazornet.csproj": {
+    "C:\\Users\\eduar\\OneDrive\\Eduardo Almachi\\workspace\\.NET y C# Angular\\blazornet\\blazornet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduar\\OneDrive\\Eduardo Almachi\\workspace\\.NET y C#\\blazornet\\blazornet.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\OneDrive\\Eduardo Almachi\\workspace\\.NET y C# Angular\\blazornet\\blazornet.csproj",
         "projectName": "blazornet",
-        "projectPath": "C:\\Users\\eduar\\OneDrive\\Eduardo Almachi\\workspace\\.NET y C#\\blazornet\\blazornet.csproj",
+        "projectPath": "C:\\Users\\eduar\\OneDrive\\Eduardo Almachi\\workspace\\.NET y C# Angular\\blazornet\\blazornet.csproj",
         "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduar\\OneDrive\\Eduardo Almachi\\workspace\\.NET y C#\\blazornet\\obj\\",
+        "outputPath": "C:\\Users\\eduar\\OneDrive\\Eduardo Almachi\\workspace\\.NET y C# Angular\\blazornet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config"
