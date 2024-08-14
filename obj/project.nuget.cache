@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "b401UwruJV/H61M67nUUSJ/xueUVnYJ2mhKkXCAsrTOBvaJFlp696SjnI9LH2pqjg/D0NZN35RCrS5UfNyDtYA==",
+  "dgSpecHash": "fHBLMNOVz7x3qW0al6iCCg+LnW7X/gFDQgNh7AVto6C88MUGJCMtMhI4FjIz6podFXbU6qO6a3FF3RpBDPMbCw==",
   "success": true,
   "projectFilePath": "C:\\Users\\eduar\\OneDrive\\Eduardo Almachi\\workspace\\.NET y C# Angular\\blazornet\\blazornet.csproj",
   "expectedPackageFiles": [
@@ -28,12 +28,12 @@
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.jsinterop\\8.0.6\\microsoft.jsinterop.8.0.6.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.6\\microsoft.jsinterop.webassembly.8.0.6.nupkg.sha512",
-    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.6\\microsoft.net.illink.tasks.8.0.6.nupkg.sha512",
-    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.6\\microsoft.net.sdk.webassembly.pack.8.0.6.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.7\\microsoft.net.sdk.webassembly.pack.8.0.7.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
-    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.6.nupkg.sha512"
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.7.nupkg.sha512"
   ],
   "logs": []
 }
